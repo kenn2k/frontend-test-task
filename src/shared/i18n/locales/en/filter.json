@@ -1,1 +1,12 @@
-{}
+{
+	"home": "Home",
+	"headerTitle": "Filters",
+	"clearAll": "Clear all parameters",
+	"apply": "Apply",
+	"confirm": {
+		"applyQuestion": "Do you want to apply new filter",
+		"useOld": "Use old filter",
+		"applyNew": "Apply new filter"
+	},
+	"appliedFilters": "Applied Filters:"
+}
